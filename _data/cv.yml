@@ -45,9 +45,13 @@
   contents:
     - title: Reviever for
       items:
-        - Pattern Recognitiion
-        - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+        - Pattern Recognition
+        - Expert Systems with Applications
+        - IEEE Transactions on Medical Imaging
+        - Engineering Applications of Artificial Intelligence
+        - IEEE Journal of Biomedical and Health Informatics
         - Medical Image Computing and Computer Assisted Interventions (MICCAI)
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence
 
 - title: Teaching Experience
   type: time_table
@@ -62,7 +66,7 @@
 - title: Computer Skills
   type: list
   contents:
-    - "Programming Languages: Python, C++, C, MATLAB, JavaScript"
+    - "Programming Languages: Python, C#, MATLAB"
     - "Frameworks: PyTorch, TensorFlow, OpenCV, scikit-learn"
     - "Tools: Git, Docker, LaTeX, Jupyter Notebook"
     - "Platforms: Linux, Windows"
@@ -70,8 +74,8 @@
 - title: Other Interests
   type: list
   contents:
-    - "Sports: Badminton, Running"
-    - "Hobbies: Gaming, Traveling, Photography"
+    - "Sports: Basketball, Running"
+    - "Hobbies: Cooking, Traveling, Photography"
 
 - title: Visitors
   type: list
