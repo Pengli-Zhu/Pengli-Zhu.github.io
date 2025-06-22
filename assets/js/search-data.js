@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-accepted-by-applied-intelligence",
+            },},{id: "news-one-paper-accepted-by-ieee-transactions-on-vehicular-technology",
+          title: 'One paper accepted by IEEE Transactions on Vehicular Technology.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-by-applied-intelligence",
           title: 'One paper accepted by Applied Intelligence.',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-by-journal-of-visual-communication-and-image-representation",
@@ -46,9 +49,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-accepted-by-ieee-journal-of-oceanic-engineering",
           title: 'One paper accepted by IEEE Journal of Oceanic Engineering.',
-          description: "",
-          section: "News",},{id: "news-one-paper-accepted-by-engineering-applications-of-artificial-intelligence",
-          title: 'One paper accepted by Engineering Applications of Artificial Intelligence.',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-by-engineering-applications-of-artificial-intelligence",
           title: 'One paper accepted by Engineering Applications of Artificial Intelligence.',
