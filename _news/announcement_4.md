@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-2-27
+date: 2024-4-15
 inline: true
 related_posts: false
 ---
 
-One paper accepted by CVPR 2025 and selected as highlight.
+Two paper accepted by OCEANS 2024-Singapore and selected for oral presentation.
