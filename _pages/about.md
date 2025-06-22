@@ -27,7 +27,7 @@ latest_posts:
 
 #### About
 
-I received the B.Eng. degree in marine engineering and the M.Eng. degree in naval architecture and ocean engineering, and the Ph.D. degree in marine engineering from Dalian Maritime University, under the supervision of [Prof. Yancheng Liu (刘彦呈)](https://ai.dlmu.edu.cn/info/1701/2021.htm) and [Prof. Siyuan Liu (刘厶源)](https://mec.dlmu.edu.cn/info/1115/5789.htm). From 2023 to 2024, I was supported by [China Scholarship Council](https://www.csc.edu.cn/) as a Joint-Training Ph.D. Student with the with Department of Biomedical Engineering, National University of Singapore, under the supervision of [Prof. Anqi Qiu (仇安琪)](https://cde.nus.edu.sg/bme/staff/dr-qiu-anqi/). I am currently a Research Staff with the Department of Health Technology and Informatics, Hong Kong Polytechnic University, Hong Kong.
+I received the B.Eng. degree in marine engineering and the M.Eng. degree in naval architecture and ocean engineering, and the Ph.D. degree in marine engineering from Dalian Maritime University, under the supervision of [Prof. Yancheng Liu (刘彦呈)](https://ai.dlmu.edu.cn/info/1701/2021.htm) and [Prof. Siyuan Liu (刘厶源)](https://mec.dlmu.edu.cn/info/1115/5789.htm). From 2023 to 2024, I was supported by [China Scholarship Council](https://www.csc.edu.cn/) as a Joint-Training Ph.D. Student with Department of Biomedical Engineering, National University of Singapore, under the supervision of [Prof. Anqi Qiu (仇安琪)](https://cde.nus.edu.sg/bme/staff/dr-qiu-anqi/). I am currently a Research Staff with the Department of Health Technology and Informatics, Hong Kong Polytechnic University, Hong Kong.
 
 #### Research
 
