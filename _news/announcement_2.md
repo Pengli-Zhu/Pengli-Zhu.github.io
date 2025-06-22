@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-01
+date: 2024-10-10
 inline: true
 related_posts: false
 ---
 
-One paper accepted by Engineering Applications of Artificial Intelligence. 
+One paper accepted by IEEE Journal of Oceanic Engineering. 
