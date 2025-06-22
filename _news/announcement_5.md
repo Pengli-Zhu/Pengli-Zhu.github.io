@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-06
+date: 2025-04-01
 inline: true
 related_posts: false
 ---
 
-One paper accepted by Neural Networks.
+One paper accepted by Medical Image Analysis.
