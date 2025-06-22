@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-two-papers-accepted-by-isbi-2024-one-selected-for-oral-presentation",
+            },},{id: "news-one-paper-accepted-by-applied-intelligence",
+          title: 'One paper accepted by Applied Intelligence.',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-by-isbi-2024-one-selected-for-oral-presentation",
           title: 'Two papers accepted by ISBI 2024, one selected for oral presentation.',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-by-journal-of-visual-communication-and-image-representation",
@@ -43,9 +46,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-paper-accepted-by-oceans-2024-singapore-and-selected-for-oral-presentation",
           title: 'Two paper accepted by OCEANS 2024-Singapore and selected for oral presentation.',
-          description: "",
-          section: "News",},{id: "news-one-paper-accepted-by-ieee-tmi",
-          title: 'One paper accepted by IEEE TMI.',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-by-medical-image-analysis",
           title: 'One paper accepted by Medical Image Analysis.',
