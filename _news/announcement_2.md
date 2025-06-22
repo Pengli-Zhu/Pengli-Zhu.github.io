@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-05
+date: 2023-11-06
 inline: true
 related_posts: false
 ---
 
-One paper accepted by IEEE TMI.
+One paper accepted by Applied Intelligence.
