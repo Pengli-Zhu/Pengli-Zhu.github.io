@@ -54,15 +54,15 @@
         - Medical Image Computing and Computer Assisted Interventions (MICCAI)
         - IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: ShanghaiTech University, Shanghai, China
-      year: 2023.03 - 2023.07
-      description:
-        - "Course: Medical Big-Data and Artificial Intelligence (BME-2106)"
-        - "Responsibilities: Grading, office hours, and project supervision"
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant
+#       institution: ShanghaiTech University, Shanghai, China
+#       year: 2023.03 - 2023.07
+#       description:
+#         - "Course: Medical Big-Data and Artificial Intelligence (BME-2106)"
+#         - "Responsibilities: Grading, office hours, and project supervision"
 
 - title: Computer Skills
   type: list
