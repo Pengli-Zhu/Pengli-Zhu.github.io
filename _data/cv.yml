@@ -56,6 +56,7 @@
   contents:
     - title: Reviever for
       items:
+        - MICCAI
         - Neural Networks
         - Pattern Recognition
         - Expert Systems with Applications
@@ -64,7 +65,6 @@
         - Engineering Applications of Artificial Intelligence
         - IEEE Journal of Biomedical and Health Informatics
         - IEEE Transactions on Pattern Analysis and Machine Intelligence
-        - Medical Image Computing and Computer Assisted Interventions (MICCAI)
     - title: Member for
       items:
         - IEEE
