@@ -45,6 +45,7 @@
   contents:
     - title: Reviever for
       items:
+        - Neural Networks
         - Pattern Recognition
         - Expert Systems with Applications
         - IEEE Transactions on Medical Imaging
@@ -76,7 +77,7 @@
   type: list
   contents:
     - "Sports: Basketball, Running"
-    - "Hobbies: Cooking, Traveling, Photography"
+    - "Hobbies: Cooking, Traveling, NBA"
 
 - title: Visitors
   type: list
