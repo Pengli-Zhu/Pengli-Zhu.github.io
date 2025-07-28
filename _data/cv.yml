@@ -5,6 +5,7 @@
       value: Pengli Zhu (朱鹏莅)
     - name: Contact
       value: pengli.zhu@polyu.edu.hk
+      value: dlmu.p.l.zhu@gmail.com
     - name: Languages
       value: Mandarin (native), English (fluent)
 
@@ -12,7 +13,17 @@
   type: list
   contents:
     - My current research interests include intelligent image processing and machine learning.
-    
+
+- title: Employment
+  type: time_table
+  contents:
+    - title: Research Associate and Postdoctoral Fellow
+      institution: Hong Kong Polytechnic University, Hong Kong.
+      year: 2024.04 - now
+      description: 
+        - Advised by <a href="https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/">Prof. Anqi Qiu</a>
+        - Research on Q-space Guided Diffusion-Weighted Image Synthesis and Structural MRI Harmonization.
+
 - title: Education
   type: time_table
   contents:
