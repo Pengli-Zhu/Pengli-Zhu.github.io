@@ -51,6 +51,18 @@
       description:
         - Major courses include Mechanical Fundamentals, Electrical and Electronic Engineering, Computer Application Technology, Information and Automation Control, Communication and Navigation
 
+- title: Awards and Honors
+  type: nested_list
+  contents:
+    - title: Awards
+      items:
+        - China Scholarship Council (CSC) (NO.202206570013)
+        - Excellence Award - 2nd National Postdoctoral Innovation and Entrepreneurship Competition (Innovation Track) (NO.2023100069)
+        - Outstanding Paper of 2022 - Journal of Electronics & Information Technology
+    - title: Honors
+      items:
+        - Session Chair of Top Conference (OCEANS 2024-Singapore)
+
 - title: Activities
   type: nested_list
   contents:
