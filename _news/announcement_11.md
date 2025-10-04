@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-27
+date: 2025-10-04
 inline: true
 related_posts: false
 ---
 
-One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.
+One paper accepted by IEEE Transactions on Medical Imaging.
